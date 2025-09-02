@@ -1,4 +1,5 @@
-# flutter_calculator_exam
+# flutter_calculator_exam <br>
+<img width="306" height="537" alt="image" src="https://github.com/user-attachments/assets/1efb6068-c741-489d-a53d-d3776dd8dc3b" />
 
 A new Flutter project.
 
